@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .C{
+
+         height: auto;
+         width: 650px;
+         border: 2px solid black;
+         margin: auto;
+        background-color: beige;
+         border-radius: 30px;
+        box-shadow: 8px 8px 8px 4px  black;
+        
+        }
+
+        .apple{
+
+            text-align: center;
+            
+            
+
+            
+        }
+
+        .Display{
+
+            width: 600px;
+            height: 100px;
+            border: 2px solid black;
+            margin: auto;
+            background-color: rgb(13, 13, 13);
+            border-radius: 25px;
+        }
+
+        .small{
+            width: 200px;
+            height: 50px;
+            border: 2px solid black;
+            border-radius: 25px;
+            background-color: aliceblue;
+            
+            
+        }
+
+        .a{
+
+        
+            height: 90px;
+            width: 100px;
+            border: 2px solid black;
+            display: inline-block;
+            background-color: white; 
+            font-size: 35px;
+            text-align-last: center;
+            margin: 25px;
+            font-weight: bolder;
+            box-shadow: 4px 4px 4px 4px  black;
+            border-radius: 20px;
+            
+           
+           
+            
+            
+            
+            
+            
+
+
+        }
+
+        .b{
+            height: 90px;
+            width: 100px;
+            border: 2px solid black;
+            display: inline-block;
+            background-color: white; 
+            font-size: xx-large;
+            text-align-last: center;
+            
+            margin: 25px;
+            font-weight: bolder;
+            box-shadow: 4px 4px 4px 4px  black;
+            border-radius: 20px;
+            background-color: lightblue;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="C">
+        <div class="apple">
+            <h3 style="font-size:30px ;"> Appple </h3>
+        </div>
+
+        <div class="Display">
+            
+        </div>
+        <br>
+
+        <div class="small" style="margin-left: 420px;">
+
+        </div>
+        <br>
+
+        <div class="b" >
+            <p> AC </p> 
+            
+
+        </div>
+        <div class="b">
+           <p> X </p>
+
+        </div>
+        <div class="b">
+           <p> +/- </p>
+
+        </div>
+
+        <div class="b">
+           <p> *  </p>
+
+        </div>
+
+        <div class="a" >
+            <p> 7 </p> 
+            
+
+        </div>
+        <div class="a">
+           <p> 8 </p>
+
+        </div>
+        <div class="a">
+           <p> 9 </p>
+
+        </div>
+
+        <div class="b">
+           <p> X  </p>
+
+        </div>
+        <div class="a" >
+            <p> 4 </p> 
+            
+
+        </div>
+        <div class="a">
+           <p> 5 </p>
+
+        </div>
+        <div class="a">
+           <p> 6 </p>
+
+        </div>
+
+        <div class="b">
+           <p> -  </p>
+
+        </div>
+
+        <div class="a" >
+            <p> 1 </p> 
+            
+
+        </div>
+        <div class="a">
+           <p> 2 </p>
+
+        </div>
+        <div class="a">
+           <p> 3 </p>
+
+        </div>
+
+        <div class="b">
+           <p> +  </p>
+
+        </div>
+
+        <div class="a" >
+            <p> % </p> 
+            
+
+        </div>
+        <div class="a">
+           <p> 0 </p>
+
+        </div>
+        <div class="a">
+           <p> . </p>
+
+        </div>
+
+        <div class="b">
+           <p> =  </p>
+
+        </div>
+
+
+
+
+
+    </div>
+</body>
+</html>
